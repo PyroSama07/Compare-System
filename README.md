@@ -7,4 +7,5 @@ Our system can compare any product available in India of the above mentioned cat
 2)	Laptop: Price, Rating (out of 5), Display size, Operating System, Weight, Clock speed, Touchscreen
 3)	Headphone: Price, Rating (out of 5), Colour, Headphone Type, Water Resistant, Microphone, Design
 4)	Television: Price, Rating (out of 5), Display size, Screen Type, Smart TV, Power consumption
+
 Not to mention there still are hundreds of product in Indian market so entering all the data in our database was a huge task so we scraped the flipkart.com website and used to the information provided by them.
